@@ -11,7 +11,8 @@ To see your changes, [install Hugo Extended], then run it with:
 hugo server -F
 ```
 
-And open [http://localhost:1313/] in your browser. Note that the `-F` flag will
+And open this [http://localhost:1313/] in your browser.
+Note :- That the `-F` flag will
 show items to be published in the future (like blog posts with dates in the
 future).
 
